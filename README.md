@@ -37,13 +37,13 @@
         <td>10th Grade</td>
         <td>Bhai Joga Singh PUblic School,Meerut</td>
         <td>CBSE</td>
-        <td>92%</td>
+        <td>91.8%</td>
     </tr>
     <tr>
         <td>12th Grade</td>
         <td>Lala Tika Ram Public School,Meerut/td>
         <td>CBSE</td>
-        <td>96.8%</td>
+        <td>95.4%</td>
     </tr>
     <tr>
         <td>B.Tech</td>
